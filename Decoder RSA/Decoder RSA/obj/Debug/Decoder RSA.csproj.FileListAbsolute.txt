@@ -1,0 +1,12 @@
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\bin\Debug\Decoder RSA.exe.config
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\bin\Debug\Decoder RSA.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\bin\Debug\Decoder RSA.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\obj\Debug\Decoder RSA.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\obj\Debug\Decoder_RSA.RSA.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\obj\Debug\Decoder_RSA.Properties.Resources.resources
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\obj\Debug\Decoder RSA.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\obj\Debug\Decoder RSA.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\obj\Debug\Decoder RSA.exe
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\obj\Debug\Decoder RSA.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\bin\Debug\MaterialSkin.dll
+C:\Users\Дима\Documents\Учеба\Программы\Информационная безопасность\мое\Decoder RSA\Decoder RSA\obj\Debug\Decoder RSA.csproj.CopyComplete
